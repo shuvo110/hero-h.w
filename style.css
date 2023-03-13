@@ -1,0 +1,67 @@
+.heve-width{
+    width:40%;
+    padding: 2%;
+    margin-left:4%;
+    float: left;
+    margin-top: 30px;
+}
+h2{
+    color:crimson;
+   font-family: 'Raleway', sans-serif;
+  
+}
+.heve-width img{
+    width:80%;
+}
+#section1{
+    background-image:url(img/header-bg.png);
+    background-repeat: no-repeat;
+    background-position: left;
+}
+section{
+    height:400px;
+}
+#link{
+    font-size: 20px;
+    border-radius:4px;
+    text-decoration: none;
+    padding:0px 15px;
+    text-align: center;
+    margin-left: 15px;
+    background-color: rgb(221, 49, 84);
+}
+#section2{
+    background-image:url(img/biography-bg.png);
+    margin-top: 50px;
+    background-repeat: no-repeat;
+}
+
+.photo{
+    width:30%;
+    height:260px;
+  
+}
+#photo1{
+    margin: auto;
+    width:90%;
+    float: right;
+
+
+}
+#section3{
+    text-align: center;
+   background-color: rgba(249, 223, 120, 0.719);
+}
+#text{
+    background-color: rgba(232, 93, 253, 0.862);
+    display: inline-block;
+    
+    width: 60%;
+    height:30%;
+    border-radius: 9px;
+}
+#footer{
+    margin-top: 20%;
+    color: darkmagenta;
+    text-align: center;
+}
